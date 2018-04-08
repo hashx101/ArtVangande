@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Cafe Terrace at Night",
+    "picture": "images/art.jpg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/art1.jpg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/abstract.jpg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/flowers.jpg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/Lear.jpg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/maybe.jpg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/golden-retriever.jpeg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/abstract.jpg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/french-bulldog.jpeg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/boxer.jpeg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/boxer.jpeg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/scottish-terrier.jpeg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/french-bulldog.jpeg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/golden-retriever.jpeg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/golden-retriever.jpeg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/golden-retriever.jpeg",
+    "created": "September 1888- September 16, 188",
+    "artist": "Vincent Van Gogh",
+    "location": "Kroller-Muller Museum"
+  }
+]
